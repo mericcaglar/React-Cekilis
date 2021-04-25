@@ -1,3 +1,3 @@
 # Çekiliş App
 
-Basit yılbaşı çekiliş web uygulaması
+Kendi aramızda yılbaşı çekiliş yapmak için geliştirdiğim basit bir çekiliş uygulaması
